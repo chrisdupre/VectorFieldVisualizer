@@ -1,5 +1,5 @@
 # VectorFieldVisualizer
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrisdupre/VectorFieldVisualizer/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrisdupre/VectorFieldVisualizer/HEAD?labpath=VectorFieldPlotter.ipynb)
 
 Notebook for 2552
 
