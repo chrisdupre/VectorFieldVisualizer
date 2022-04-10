@@ -1,0 +1,4 @@
+.github
+matplotlib
+numpy
+sympy
